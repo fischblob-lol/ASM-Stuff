@@ -15,8 +15,8 @@ Maybe a small bootloader?
 Uh, I dont know really
 
 # My expectations / how much I think im good at assembly
-<                                                      >
-Currently 0%, got no experience at all
+<=                                                     >
+Currently 1%, got little to no experience
 
 # Notes
 Since my Mac is an M chip, its going to be mostly ARM64 Assembly code, I will try learning x86_64 assembly sometime in the future.
